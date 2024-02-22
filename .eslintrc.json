@@ -1,0 +1,6 @@
+{
+  "extends": "next",
+  "rules": {
+    "no-duplicate-imports": "warn"
+  }
+}
